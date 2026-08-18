@@ -1,0 +1,22 @@
+[
+{"name": "Alavés", "location": "Vitoria-Gasteiz", "stadium": "Mendizorrotza", "manager": "Quique Sánchez Flores"},
+{"name": "Athletic Bilbao", "location": "Bilbao", "stadium": "San Mamés", "manager": "Edin Terzić"},
+{"name": "Atlético Madrid", "location": "Madrid", "stadium": "Metropolitano Stadium", "manager": "Diego Simeone"},
+{"name": "Barcelona", "location": "Barcelona", "stadium": "Camp Nou", "manager": "Hansi Flick"},
+{"name": "Celta Vigo", "location": "Vigo", "stadium": "Balaídos", "manager": "Claudio Giráldez"},
+{"name": "Deportivo A Coruña", "location": "A Coruña", "stadium": "Riazor", "manager": "Antonio Hidalgo"},
+{"name": "Elche", "location": "Elche", "stadium": "Estadio Martínez Valero", "manager": "Martín Anselmi"},
+{"name": "Espanyol", "location": "Cornellà de Llobregat", "stadium": "RCDE Stadium", "manager": "Manolo González"},
+{"name": "Getafe", "location": "Getafe", "stadium": "Estadio Coliseum", "manager": "José Bordalás"},
+{"name": "Levante", "location": "Valencia", "stadium": "Estadi Ciutat de València", "manager": "Luís Castro"},
+{"name": "Málaga", "location": "Málaga", "stadium": "Estadio La Rosaleda", "manager": "Juan Francisco Funes"},
+{"name": "Osasuna", "location": "Pamplona", "stadium": "El Sadar", "manager": "Luis Miguel Ramis"},
+{"name": "Racing Santander", "location": "Santander", "stadium": "El Sardinero", "manager": "José Alberto López"},
+{"name": "Rayo Vallecano", "location": "Madrid", "stadium": "Campo de Fútbol de Vallecas", "manager": "Beñat San José"},
+{"name": "Real Betis", "location": "Seville", "stadium": "Estadio de La Cartuja", "manager": "Manuel Pellegrini"},
+{"name": "Real Madrid", "location": "Madrid", "stadium": "Santiago Bernabéu", "manager": "José Mourinho"},
+{"name": "Real Sociedad", "location": "San Sebastián", "stadium": "Reale Arena", "manager": "Pellegrino Matarazzo"},
+{"name": "Sevilla", "location": "Seville", "stadium": "Ramón Sánchez Pizjuán", "manager": "Luis García"},
+{"name": "Valencia", "location": "Valencia", "stadium": "Mestalla", "manager": "Carlos Corberán"},
+{"name": "Villarreal", "location": "Villarreal", "stadium": "Estadio de la Cerámica", "manager": "Iñigo Pérez"}
+]
