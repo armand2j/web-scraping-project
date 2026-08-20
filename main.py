@@ -2,14 +2,6 @@ import requests
 import json
 import psycopg2 as pg
 
-# uri = "https://api.football-data.org/v4/matches"
-# headers = {"X-Auth-Token": "63f93cc0883045b18ed730335a16f895"}
-
-# response = requests.get(uri, headers=headers)
-
-# for match in response.json()["matches"]:
-#     print(match)
-
 connection = pg.connect(
     database="python",
     user="postgres",
@@ -19,14 +11,24 @@ connection = pg.connect(
 )
 
 
-with open("data/clubs.json", encoding="utf-8") as f:
-    clubs: list = json.load(f)
-    string = json.dumps(clubs, indent=2, ensure_ascii=False)
-    # print(string)
+clubs_list: list = []
+
+with open("data/clubs.json") as f:
+    clubs_list = json.load(f)
 
 
 cursor = connection.cursor()
-cursor.execute("""DROP TABLE IF EXISTS test;
-""")
+
+# for club in clubs_list:
+#     name = club["name"]
+#     location = club["location"]
+#     stadium = club["stadium"]
+#     manager = club["manager"]
+
+#     cursor.execute(f"""
+#         INSERT INTO clubs (name, location, stadium, manager)
+#         VALUES ('{name}', '{location}', '{stadium}', '{manager}')
+#     """)
+
 
 connection.commit()

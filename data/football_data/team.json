@@ -1,0 +1,274 @@
+{
+  "area": {
+    "id": 2224,
+    "name": "Spain",
+    "code": "ESP",
+    "flag": "https://crests.football-data.org/760.svg"
+  },
+  "id": 81,
+  "name": "FC Barcelona",
+  "shortName": "Bar\u00e7a",
+  "tla": "FCB",
+  "crest": "https://crests.football-data.org/81.png",
+  "address": "Avenida Ar\u00edstides Maillol s/n Barcelona 08028",
+  "website": "http://www.fcbarcelona.com",
+  "founded": 1899,
+  "clubColors": "Red / Navy Blue / Orange",
+  "venue": "Camp Nou",
+  "runningCompetitions": [
+    {
+      "id": 2014,
+      "name": "Primera Division",
+      "code": "PD",
+      "type": "LEAGUE",
+      "emblem": "https://crests.football-data.org/laliga.png"
+    }
+  ],
+  "coach": {
+    "id": null,
+    "firstName": null,
+    "lastName": null,
+    "name": null,
+    "dateOfBirth": null,
+    "nationality": null,
+    "contract": {
+      "start": null,
+      "until": null
+    }
+  },
+  "squad": [
+    {
+      "id": 2022,
+      "name": "Wojciech Szcz\u0119sny",
+      "position": "Goalkeeper",
+      "dateOfBirth": "1990-04-18",
+      "nationality": "Poland"
+    },
+    {
+      "id": 152506,
+      "name": "Joan Garc\u00eda",
+      "position": "Goalkeeper",
+      "dateOfBirth": "2001-05-04",
+      "nationality": "Spain"
+    },
+    {
+      "id": 242551,
+      "name": "\u00c1ron Yaakobishvili",
+      "position": "Goalkeeper",
+      "dateOfBirth": "2006-03-06",
+      "nationality": "Hungary"
+    },
+    {
+      "id": 3455,
+      "name": "Andreas Christensen",
+      "position": "Defence",
+      "dateOfBirth": "1996-04-10",
+      "nationality": "Denmark"
+    },
+    {
+      "id": 8499,
+      "name": "Jules Kound\u00e9",
+      "position": "Defence",
+      "dateOfBirth": "1998-11-12",
+      "nationality": "France"
+    },
+    {
+      "id": 28292,
+      "name": "Ronald Ara\u00fajo",
+      "position": "Defence",
+      "dateOfBirth": "1999-03-07",
+      "nationality": "Uruguay"
+    },
+    {
+      "id": 101345,
+      "name": "Eric Garc\u00eda",
+      "position": "Defence",
+      "dateOfBirth": "2001-01-09",
+      "nationality": "Spain"
+    },
+    {
+      "id": 172761,
+      "name": "\u00c1lex Balde",
+      "position": "Defence",
+      "dateOfBirth": "2003-10-18",
+      "nationality": "Spain"
+    },
+    {
+      "id": 217540,
+      "name": "Pau Cubars\u00ed",
+      "position": "Defence",
+      "dateOfBirth": "2007-01-22",
+      "nationality": "Spain"
+    },
+    {
+      "id": 227023,
+      "name": "H\u00e9ctor Fort",
+      "position": "Defence",
+      "dateOfBirth": "2006-08-02",
+      "nationality": "Spain"
+    },
+    {
+      "id": 264320,
+      "name": "Gerard Mart\u00edn",
+      "position": "Defence",
+      "dateOfBirth": "2002-02-26",
+      "nationality": "Spain"
+    },
+    {
+      "id": 272984,
+      "name": "\u00c1lvaro Cort\u00e9s",
+      "position": "Defence",
+      "dateOfBirth": "2005-03-17",
+      "nationality": "Spain"
+    },
+    {
+      "id": 283414,
+      "name": "Jofre Torrents",
+      "position": "Defence",
+      "dateOfBirth": "2007-01-28",
+      "nationality": "Spain"
+    },
+    {
+      "id": 287848,
+      "name": "Xavi Espart",
+      "position": "Defence",
+      "dateOfBirth": "2007-05-21",
+      "nationality": "Spain"
+    },
+    {
+      "id": 3199,
+      "name": "Rodri",
+      "position": "Midfield",
+      "dateOfBirth": "1996-06-22",
+      "nationality": "Spain"
+    },
+    {
+      "id": 7559,
+      "name": "Frenkie de Jong",
+      "position": "Midfield",
+      "dateOfBirth": "1997-05-12",
+      "nationality": "Netherlands"
+    },
+    {
+      "id": 23132,
+      "name": "Dani Olmo",
+      "position": "Midfield",
+      "dateOfBirth": "1998-05-07",
+      "nationality": "Spain"
+    },
+    {
+      "id": 133860,
+      "name": "Pedri",
+      "position": "Midfield",
+      "dateOfBirth": "2002-11-25",
+      "nationality": "Spain"
+    },
+    {
+      "id": 171992,
+      "name": "Pablo Gavira",
+      "position": "Midfield",
+      "dateOfBirth": "2004-08-05",
+      "nationality": "Spain"
+    },
+    {
+      "id": 188817,
+      "name": "Marc Casado",
+      "position": "Midfield",
+      "dateOfBirth": "2003-09-14",
+      "nationality": "Spain"
+    },
+    {
+      "id": 214533,
+      "name": "Ferm\u00edn L\u00f3pez",
+      "position": "Midfield",
+      "dateOfBirth": "2003-05-11",
+      "nationality": "Spain"
+    },
+    {
+      "id": 264321,
+      "name": "Marc Bernal",
+      "position": "Midfield",
+      "dateOfBirth": "2007-05-26",
+      "nationality": "Spain"
+    },
+    {
+      "id": 270320,
+      "name": "Guille Fern\u00e1ndez",
+      "position": "Midfield",
+      "dateOfBirth": "2008-06-18",
+      "nationality": "Spain"
+    },
+    {
+      "id": 270450,
+      "name": "Toni Fern\u00e1ndez",
+      "position": "Midfield",
+      "dateOfBirth": "2008-07-15",
+      "nationality": "Spain"
+    },
+    {
+      "id": 289622,
+      "name": "Tomy Marqu\u00e9s",
+      "position": "Midfield",
+      "dateOfBirth": "2006-10-30",
+      "nationality": "Spain"
+    },
+    {
+      "id": 298638,
+      "name": "Brian Fari\u00f1as",
+      "position": "Midfield",
+      "dateOfBirth": "2006-02-09",
+      "nationality": "Spain"
+    },
+    {
+      "id": 7848,
+      "name": "Anthony Gordon",
+      "position": "Offence",
+      "dateOfBirth": "2001-02-24",
+      "nationality": "England"
+    },
+    {
+      "id": 33154,
+      "name": "Ferr\u00e1n Torres",
+      "position": "Offence",
+      "dateOfBirth": "2000-02-29",
+      "nationality": "Spain"
+    },
+    {
+      "id": 37428,
+      "name": "Raphinha",
+      "position": "Offence",
+      "dateOfBirth": "1996-12-14",
+      "nationality": "Brazil"
+    },
+    {
+      "id": 82515,
+      "name": "Karim Adeyemi",
+      "position": "Offence",
+      "dateOfBirth": "2002-01-18",
+      "nationality": "Germany"
+    },
+    {
+      "id": 184723,
+      "name": "Roony Bardghji",
+      "position": "Offence",
+      "dateOfBirth": "2005-11-15",
+      "nationality": "Sweden"
+    },
+    {
+      "id": 202283,
+      "name": "Lamine Yamal",
+      "position": "Offence",
+      "dateOfBirth": "2007-07-13",
+      "nationality": "Spain"
+    },
+    {
+      "id": 298634,
+      "name": "Jesse Bisiwu",
+      "position": "Offence",
+      "dateOfBirth": "2008-01-22",
+      "nationality": "Belgium"
+    }
+  ],
+  "staff": [],
+  "lastUpdated": "2024-07-29T17:09:22Z"
+}
